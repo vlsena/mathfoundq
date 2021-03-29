@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on MathFoundQ | Mathematical Foundations of Quantum Theory Group</title>
+    <link>http://ime.unicamp.br/~mfq/categories/</link>
+    <description>Recent content in Categories on MathFoundQ | Mathematical Foundations of Quantum Theory Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Developed By MFQ | Powered By [Hugo](https://gohugo.io/) | Based on [Vex](https://github.com/themefisher/vex-hugo) By [Themefisher](https://themefisher.com/)</copyright>
+    <lastBuildDate>Sat, 13 Mar 2021 11:00:00 -0300</lastBuildDate><atom:link href="http://ime.unicamp.br/~mfq/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>intro</title>
+      <link>http://ime.unicamp.br/~mfq/categories/intro/</link>
+      <pubDate>Sat, 13 Mar 2021 11:00:00 -0300</pubDate>
+      
+      <guid>http://ime.unicamp.br/~mfq/categories/intro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leader</title>
+      <link>http://ime.unicamp.br/~mfq/categories/leader/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>http://ime.unicamp.br/~mfq/categories/leader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>msc</title>
+      <link>http://ime.unicamp.br/~mfq/categories/msc/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>http://ime.unicamp.br/~mfq/categories/msc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phd</title>
+      <link>http://ime.unicamp.br/~mfq/categories/phd/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>http://ime.unicamp.br/~mfq/categories/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>udg</title>
+      <link>http://ime.unicamp.br/~mfq/categories/udg/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>http://ime.unicamp.br/~mfq/categories/udg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
