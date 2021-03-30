@@ -10,7 +10,7 @@
         </div>
 
         <div class="product-slider">
-          {{ range (where .Site.RegularPages "Section" "people") }}
+          {{ range (shuffle (where .Site.RegularPages "Section" "people")) }}
           <div class="block">
             <div class="slider-gallery-overlay">
               <a href="{{ .Permalink }}" class="slider-gallery-popup">
