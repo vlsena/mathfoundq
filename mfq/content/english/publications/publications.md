@@ -9,9 +9,30 @@ draft: false
 
 # 2020-2021
 
+## [Contextuality and Semi-Module Cohomology](https://arxiv.org/abs/2104.11411)  
+**Authors:** Sidiney B. Montanhano  
+**Published in:** Preprint  
+**Originally announced:** April 2021  
+
+---  
+
+## [Noncontextuality as a meaning of classicality in Quantum Darwinism](https://arxiv.org/abs/2104.05734)  
+**Authors:** Roberto D. Baldijão, Rafael Wagner, Cristhiano Duarte, Bárbara Amaral, Marcelo Terra Cunha  
+**Published in:** Preprint  
+**Originally announced:** April 2021  
+
+---  
+
+## [Using a resource theoretic perspective to witness and engineer quantum generalized contextuality for prepare-and-measure scenarios](https://arxiv.org/abs/2102.10469)  
+**Authors:** Rafael Wagner, Roberto D. Baldijão, Alisson Tezzin, Bárbara Amaral  
+**Published in:** Preprint  
+**Originally announced:** February 2021  
+
+---  
+
 ## [Semi-device-independent certification of entanglement in superdense coding](https://arxiv.org/abs/2102.02709)  
 **Authors:** George Moreno, Ranieri Nery, Carlos de Gois, Rafael Rabelo, Rafael Chaves  
-**Published in:** Preprint  
+**Published in:** Phys. Rev. A 103, 022426 (2021)  
 **Originally announced:** February 2021  
 
 ---  
@@ -69,7 +90,7 @@ draft: false
 
 ## [On Measures and Measurements: a Fibre Bundle approach to Contextuality](https://arxiv.org/abs/1903.08819)  
 **Authors:** Marcelo Terra Cunha  
-**Published in:** Preprint  
+**Published in:** Phil. Trans. R. Soc. A 377: 20190146 (2019) 
 **Dated:** March 2019  
 
 ---  
