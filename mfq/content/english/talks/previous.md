@@ -3,9 +3,22 @@ title: "Previous Talks"
 date: 2021-02-25T11:00:00-03:00
 
 # meta description
-description : "markus muller iqoqi vienna talk"
+description : "previous nonlocal talks seminars"
 draft: false
 ---
+
+<h1 style="display:inline-block;">William Wootters</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(Williams College)</h2>
+
+## Quantum predictions arising from epistemically restricted classical predictions
+### Jul 8, 2021
+
+**Authors:** William F. Braasch Jr. and William K. Wootters  
+
+**Abstract:** In a 2016 paper, Rob Spekkens presented an "epistemically restricted classical theory" based on discrete phase space.  The theory has many features in common with quantum theory, but it cannot imitate quantum theory perfectly because it is noncontextual.  
+
+Here we start with a theory like the one Spekkens proposed, but we add a crucial ingredient in order to recover quantum theory itself for a certain class of systems.  The extra ingredient is to consider all the possible classical accounts of a given experiment, and to combine the predictions of these accounts by the following rule: the nonrandom part of the quantum prediction is given by the sum of the nonrandom parts of the classical predictions.  
+
+<br>
 
 <h1 style="display:inline-block;">Otfried Gühne</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(University of Siegen)</h2>
 

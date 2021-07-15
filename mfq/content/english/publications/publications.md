@@ -9,6 +9,13 @@ draft: false
 
 # 2020-2021
 
+## [On quantum sets of the multicoloured-graph approach to contextuality](https://arxiv.org/abs/2105.08561)  
+**Authors:** Lina Vandré, Marcelo Terra Cunha  
+**Published in:** Preprint  
+**Originally announced:** May 2021  
+
+---
+
 ## [Contextuality and Semi-Module Cohomology](https://arxiv.org/abs/2104.11411)  
 **Authors:** Sidiney B. Montanhano  
 **Published in:** Preprint  
