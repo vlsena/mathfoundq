@@ -9,6 +9,20 @@ draft: false
 
 # 2020-2021
 
+## [Quantum communication complexity beyond Bell nonlocality](https://arxiv.org/abs/2106.06552)  
+**Authors:** Joseph Ho, George Moreno, Samuraí Brito, Francesco Graffitti, Christopher L. Morrison, Ranieri Nery, Alexander Pickston, Massimiliano Proietti, Rafael Rabelo, Alessandro Fedrizzi, Rafael Chaves  
+**Published in:** Preprint  
+**Originally announced:** Jun 2021  
+
+---
+
+## [Quantum communication complexity beyond Bell nonlocality](https://arxiv.org/abs/2106.06552)  
+**Authors:** Joseph Ho, George Moreno, Samuraí Brito, Francesco Graffitti, Christopher L. Morrison, Ranieri Nery, Alexander Pickston, Massimiliano Proietti, Rafael Rabelo, Alessandro Fedrizzi, Rafael Chaves  
+**Published in:** Preprint  
+**Originally announced:** Jun 2021  
+
+---
+
 ## [On quantum sets of the multicoloured-graph approach to contextuality](https://arxiv.org/abs/2105.08561)  
 **Authors:** Lina Vandré, Marcelo Terra Cunha  
 **Published in:** Preprint  
@@ -21,11 +35,11 @@ draft: false
 **Published in:** Preprint  
 **Originally announced:** April 2021  
 
----  
+--- 
 
-## [Noncontextuality as a meaning of classicality in Quantum Darwinism](https://arxiv.org/abs/2104.05734)  
+## [Emergence of noncontextuality under quantum Darwinism](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.030351)  
 **Authors:** Roberto D. Baldijão, Rafael Wagner, Cristhiano Duarte, Bárbara Amaral, Marcelo Terra Cunha  
-**Published in:** Preprint  
+**Published in:** PRX Quantum 2, 030351  
 **Originally announced:** April 2021  
 
 ---  
@@ -51,9 +65,9 @@ draft: false
 
 ---
 
-## [General Method for Classicality Certification in the Prepare and Measure Scenario](https://arxiv.org/abs/2101.10459)  
+## [General Method for classicality certification in the prepare and measure scenario](https://arxiv.org/abs/2101.10459)  
 **Authors:** Carlos de Gois, George Moreno, Ranieri Nery, Samuraí Brito, Rafael Chaves, Rafael Rabelo  
-**Published in:** Preprint  
+**Published in:** PRX Quantum 2, 030311 (2021)  
 **Originally announced:** January 2021  
 
 ---  
@@ -74,7 +88,7 @@ draft: false
 
 ## [Bell Non-Locality in Many Body Quantum Systems with Exponential Decay of Correlations](https://arxiv.org/abs/2006.05537)  
 **Authors:** Carlos H. S. Vieira, Cristhiano Duarte, Raphael C. Drumond, Marcelo Terra Cunha  
-**Published in:** Preprint  
+**Published in:** Preprint (Accepted for publication at Brazilian Journal of Physics)
 **Dated:** June 2020  
 
 ---  

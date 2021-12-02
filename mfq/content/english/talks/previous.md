@@ -7,6 +7,35 @@ description : "previous nonlocal talks seminars"
 draft: false
 ---
 
+<h1 style="display:inline-block;">Giannicola Scarpa</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(Universidad Politécnica de Madrid)</h2>
+
+## Agreement between observers: a physical principle?
+### Nov 11, 2021
+
+Is the world quantum? An active research line in quantum foundations is devoted to exploring what constraints can rule out the post-quantum theories that are consistent with experimentally observed results. We explore this question in the context of epistemics, and ask whether agreement between observers can serve as a physical principle that must hold for any theory of the world. Aumann's seminal Agreement Theorem states that two observers (of classical systems) cannot agree to disagree. We propose an extension of this theorem to no-signaling settings. In particular, we establish an Agreement Theorem for observers of quantum systems, while we construct examples of (post-quantum) no-signaling boxes where observers can agree to disagree. The PR box is an extremal instance of this phenomenon. These results make it plausible that agreement between observers might be a physical principle, while they also establish links between the fields of epistemics and quantum information that seem worthy of further exploration.
+
+<br>
+
+<h1 style="display:inline-block;">John Selby</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(ICTQT, University of Gdańsk)</h2>
+
+## Contextuality without incompatibility
+### Nov 4, 2021
+
+One of the key studies within quantum theory is to understand exactly how the quantum and classical worlds differ from one another. In this talk I will focus on the notion of generalised noncontextuality, which cleanly delineates between those theories which can be thought of as  admitting of a classical explanation, and those, such as quantum theory, that cannot. In recent work we have shown how this notion can be understood within the framework of generalised  probabilistic theories, which leads to an intuitive, geometric, account of generalised noncontextuality. By doing so we can prove a collection of surprising results, not least of all, that it is possible to have proofs of contextuality that do not use any incompatible measurements. 
+
+<br>
+
+<h1 style="display:inline-block;">Elie Wolfe</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(Perimeter Institute)</h2>
+
+## Quantifying Nonlocality and Entanglement relative to Local Operations and Shared Randomness
+### Jul 15, 2021
+
+In order to develop a resource theory of nonlocality one must first isolate that essential physical property which underlies Bell inequality violation. We propose nonclassicality of a causal common cause as that property, which implies local operations and shared randomness (LOSR) as the choice of free operations. In this talk I'll explore a myriad after happy conceptual clarifications that follow from electing to quantify nonlocality via LOSR. Highlights include the resolution of anomalies between nonlocality and entanglement, a linear program formulation for assessing convertibility between nonsignalling boxes, conceptual cleanup regarding self-testing, and a causally-motivated definition of multipartiteness relative to LOSR. The latter connects this work to foundational quantum (and GPT) causal inference problems in the notorious triangle scenario.
+
+Based primarily on the recently updated [Understanding the interplay of entanglement and nonlocality: motivating and developing a new branch of entanglement theory](https://arxiv.org/abs/2004.09194), as well as the new [No Bipartite-Nonlocal Causal Theory Can Explain Nature's Correlations](https://arxiv.org/abs/2105.09381), and [Quantifying Bell: the Resource Theory of Nonclassicality of Common-Cause Boxes](https://arxiv.org/abs/1903.06311).
+
+<br>
+
 <h1 style="display:inline-block;">William Wootters</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(Williams College)</h2>
 
 ## Quantum predictions arising from epistemically restricted classical predictions
