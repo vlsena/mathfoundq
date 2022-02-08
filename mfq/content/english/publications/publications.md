@@ -9,9 +9,9 @@ draft: false
 
 # 2020-2021
 
-## [Quantum communication complexity beyond Bell nonlocality](https://arxiv.org/abs/2106.06552)  
+## [Entanglement-based quantum communication complexity beyond Bell nonlocality](https://www.nature.com/articles/s41534-022-00520-8)  
 **Authors:** Joseph Ho, George Moreno, Samuraí Brito, Francesco Graffitti, Christopher L. Morrison, Ranieri Nery, Alexander Pickston, Massimiliano Proietti, Rafael Rabelo, Alessandro Fedrizzi, Rafael Chaves  
-**Published in:** Preprint  
+**Published in:** npj Quantum Inf 8, 13 (2022)  
 **Originally announced:** Jun 2021  
 
 ---
@@ -20,6 +20,13 @@ draft: false
 **Authors:** Joseph Ho, George Moreno, Samuraí Brito, Francesco Graffitti, Christopher L. Morrison, Ranieri Nery, Alexander Pickston, Massimiliano Proietti, Rafael Rabelo, Alessandro Fedrizzi, Rafael Chaves  
 **Published in:** Preprint  
 **Originally announced:** Jun 2021  
+
+---
+
+## [Contextuality in the Fibration Approach and the Role of Holonomy](https://arxiv.org/abs/2105.14132)  
+**Authors:** Sidiney B. Montanhano  
+**Published in:** Preprint  
+**Originally announced:** May 2021  
 
 ---
 
@@ -30,7 +37,7 @@ draft: false
 
 ---
 
-## [Contextuality and Semi-Module Cohomology](https://arxiv.org/abs/2104.11411)  
+## [Contextuality and Semi-Module Cohomology](https://arxiv.org/abs/2104.11411v2)  
 **Authors:** Sidiney B. Montanhano  
 **Published in:** Preprint  
 **Originally announced:** April 2021  
