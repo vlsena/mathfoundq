@@ -37,7 +37,7 @@ draft: false
 
 ---
 
-## [Contextuality and Semi-Module Cohomology](https://arxiv.org/abs/2104.11411v2)  
+## [Characterization of Contextuality with Semi-Module Čech Cohomology and its Relation with Cohomology of Effect Algebras](https://arxiv.org/abs/2104.11411)
 **Authors:** Sidiney B. Montanhano  
 **Published in:** Preprint  
 **Originally announced:** April 2021  
