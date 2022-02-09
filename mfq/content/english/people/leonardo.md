@@ -1,5 +1,5 @@
 ---
-title: "Laonardo Pereira Stabile"
+title: "Leonardo Pereira Stabile"
 date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/showcase/leonardo.png"
@@ -11,4 +11,4 @@ categories: udg
 draft: false
 ---
 
-I'm an undergraduate student at the Physics Institute of the University of São Paulo (IFUSP). In my Scientific Initiation project I study Quantum Information and General Probabilistic Theories while my research explores the colored graph approach to non-contextual inequalities. I have also enthusiasm about the intersections between Relativity and Quantum Theory.
+I'm currently an undergraduate student in Physics at Universidade Estadual de Campinas. My interests are foundations of quantum theory, with emphasis in quantum contextuality.
