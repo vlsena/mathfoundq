@@ -79,9 +79,9 @@ draft: false
 
 ---  
 
-## [Quantum Darwinism and the spreading of classical information in non-classical theories](https://arxiv.org/abs/2012.06559)  
+## [Quantum Darwinism and the spreading of classical information in non-classical theories](https://quantum-journal.org/papers/q-2022-01-31-636/)  
 **Authors:** Roberto D. Baldijao, Marius Krumm, Andrew J. P. Garner, Markus P. Mueller  
-**Published in:** Preprint  
+**Published in:** Quantum 6, 636 (2022)
 **Originally announced:** December 2020  
 
 ---  
