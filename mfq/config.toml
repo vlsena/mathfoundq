@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://www.ime.unicamp.br/~mfq"
+baseurl = "//ime.unicamp.br/~mfq"
 title = "MathFoundQ | Mathematical Foundations of Quantum Theory Group"
 theme = "vex-hugo"
 # post excert
