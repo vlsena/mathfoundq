@@ -7,7 +7,7 @@ images:
 # meta description
 description : "andre saugo mazzari landing page"
 summary: M.Sc. student
-categories: msc
+categories: student
 draft: false
 ---
 
