@@ -7,7 +7,7 @@ images:
 # meta description
 description : "leonardo pereira stabile landing page"
 summary: Undergraduate student
-categories: udg
+categories: student
 draft: false
 ---
 
