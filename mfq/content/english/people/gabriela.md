@@ -5,7 +5,7 @@ images:
   - "images/showcase/gabriela.png"
 
 # meta description
-description : "gabriela ruiz loading page"
+description : "gabriela ruiz landing page"
 summary: M.Sc. student
 categories: student
 draft: false
