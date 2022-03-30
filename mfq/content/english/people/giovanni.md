@@ -7,7 +7,7 @@ images:
 # meta description
 description : "giovanni bufalari landing page"
 summary: M.Sc. student
-categories: msc
+categories: student
 draft: false
 ---
 
