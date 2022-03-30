@@ -5,9 +5,9 @@ images:
   - "images/showcase/pedro.png"
 
 # meta description
-description : "marcelo terra cunha landing page"
+description : "pedro lauand landing page"
 summary: Undergraduate student
-categories: udg
+categories: student
 draft: false
 ---
 
