@@ -7,7 +7,7 @@ images:
 # meta description
 description : "patrick andriolo landing page"
 summary: Undergraduate student
-categories: udg
+categories: student
 draft: false
 ---
 
