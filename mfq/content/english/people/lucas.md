@@ -7,7 +7,7 @@ images:
 # meta description
 description : "lucas pollyceno landing page"
 summary: Ph.D. student
-categories: phd
+categories: student
 draft: false
 ---
 
