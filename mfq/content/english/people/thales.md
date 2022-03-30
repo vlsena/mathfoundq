@@ -6,7 +6,7 @@ images:
 
 # meta description
 description : "thales marrafon landing page"
-summary: Udg. student
+summary: Undergraduate student
 categories: udg
 draft: false
 ---
