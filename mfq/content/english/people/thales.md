@@ -1,0 +1,1 @@
+Undergraduate student in physics at Universidade Estadual de Campinas (Unicamp). Working on a Scientific Initiation on activation of nonlocality in quantum networks. Main interests are foundations of quantum theory, specially nonlocality.
