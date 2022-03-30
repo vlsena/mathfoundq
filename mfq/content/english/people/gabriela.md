@@ -5,9 +5,9 @@ images:
   - "images/showcase/gabriela.png"
 
 # meta description
-description : "gabriela ruiz landing page"
+description : "gabriela ruiz loading page"
 summary: M.Sc. student
-categories: msc
+categories: student
 draft: false
 ---
 Bachelor of Computational Physics by the São Carlos Institute of Physics, University of São Paulo (IFSC-USP). Currently a Master's Student in Physics at the University of Campinas (UNICAMP). Main research interests are nonlocality and measurement incompatibility.
