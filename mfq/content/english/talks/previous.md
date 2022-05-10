@@ -7,7 +7,7 @@ description : "previous nonlocal talks seminars"
 draft: false
 ---
 
-<h1 style="display:inline-block;">Kishor Bharti</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(Joint Center for Quantum Information and Computer Science (QuICS), Maryland (USA))</h2>
+<h1 style="display:inline-block;">Kishor Bharti</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(Joint Center for Quantum Information and Computer Science (QuICS), USA)</h2>
 
 ## A semidefinite programming based approach to near-term quantum advantage and device certification 
 ### May 05, 2022
@@ -34,7 +34,7 @@ Quantum incompatibility is a fundamental trait of quantum theory. It can be trac
 
 <br>
 
-<h1 style="display:inline-block;">Armin Tavakoli</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(IQOQI Vienna)</h2>
+<h1 style="display:inline-block;">Armin Tavakoli</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(IQOQI, Vienna - Austria)</h2>
 
 ## Entanglement in quantum communications
 ### Fev 24, 2022
@@ -43,7 +43,7 @@ The combination of entanglement and quantum communication is the most general co
 
 <br>
 
-<h1 style="display:inline-block;">Giannicola Scarpa</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(Universidad Politécnica de Madrid)</h2>
+<h1 style="display:inline-block;">Giannicola Scarpa</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(Universidad Politécnica de Madrid, Spain)</h2>
 
 ## Agreement between observers: a physical principle?
 ### Nov 11, 2021
@@ -52,7 +52,7 @@ Is the world quantum? An active research line in quantum foundations is devoted 
 
 <br>
 
-<h1 style="display:inline-block;">John Selby</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(ICTQT, University of Gdańsk)</h2>
+<h1 style="display:inline-block;">John Selby</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(ICTQT, Gdańsk - Poland)</h2>
 
 ## Contextuality without incompatibility
 ### Nov 4, 2021
@@ -61,7 +61,7 @@ One of the key studies within quantum theory is to understand exactly how the qu
 
 <br>
 
-<h1 style="display:inline-block;">Elie Wolfe</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(Perimeter Institute)</h2>
+<h1 style="display:inline-block;">Elie Wolfe</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(Perimeter Institute, Canada)</h2>
 
 ## Quantifying Nonlocality and Entanglement relative to Local Operations and Shared Randomness
 ### Jul 15, 2021
@@ -72,7 +72,7 @@ Based primarily on the recently updated [Understanding the interplay of entangl
 
 <br>
 
-<h1 style="display:inline-block;">William Wootters</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(Williams College)</h2>
+<h1 style="display:inline-block;">William Wootters</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(Williams College, USA)</h2>
 
 ## Quantum predictions arising from epistemically restricted classical predictions
 ### Jul 8, 2021
@@ -85,7 +85,7 @@ Here we start with a theory like the one Spekkens proposed, but we add a crucial
 
 <br>
 
-<h1 style="display:inline-block;">Otfried Gühne</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(University of Siegen)</h2>
+<h1 style="display:inline-block;">Otfried Gühne</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(University of Siegen, Germany)</h2>
 
 ## Characterizing quantum systems with randomized measurements
 ### May 6, 2021
@@ -99,7 +99,7 @@ If only limited control over a multiparticle quantum system is available, a viab
 
 <br>
 
-<h1 style="display:inline-block;">Ana Belén Sainz</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(ICTQT, Gdańsk)</h2>
+<h1 style="display:inline-block;">Ana Belén Sainz</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(ICTQT, Gdańsk - Poland)</h2>
 
 ## Post-quantum non-classicality: the fun in dreaming
 ### April 15, 2021
@@ -108,7 +108,7 @@ Because "quantum" was not complex enough, in this talk I will introduce you to "
 
 <br>
 
-<h1 style="display:inline-block;">Marcin Pawłowski</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(ICTQT, Gdańsk)</h2>
+<h1 style="display:inline-block;">Marcin Pawłowski</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(ICTQT, Gdańsk - Poland)</h2>
 
 ## Random Access Code Zoo
 ### March 25, 2021
@@ -117,7 +117,7 @@ Random Access Code (RAC) is a protocol in which some information is encoded into
 
 <br>
 
-<h1 style="display:inline-block;">Markus P. Müller</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(IQOQI Vienna)</h2>
+<h1 style="display:inline-block;">Markus P. Müller</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(IQOQI, Vienna - Austria)</h2>
 
 ## Law without law: from observer states to physics via algorithmic information theory
 ### February 25, 2021
