@@ -10,7 +10,7 @@ draft: false
 <h1 style="display:inline-block;">Kishor Bharti</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(Joint Center for Quantum Information and Computer Science (QuICS), USA)</h2>
 
 ## A semidefinite programming based approach to near-term quantum advantage and device certification 
-### May 05, 2022
+### May 5, 2022
 
 Semidefinite Programming (SDP) is a class of convex optimization programs with vast applications in control theory, quantum information, combinatorial optimization, machine learning and operational research. In this talk, I will discuss how SDP can be used to address two major challenges in quantum computing research: near-term quantum advantage and device certification. Towards the first challenge, I will discuss how to design noisy intermediate-scale quantum (NISQ) algorithms, that bypass the local minima problem, one of the central problems faced by variational quantum algorithms. As an example, I will discuss a NISQ eigensolver that does not suffer from any trainability problem, such as the barren plateau or local minima problem. In the second part of the talk, I will discuss how can one use SDPs to give theoretical guarantees regarding the inner functioning of quantum devices under minimal assumptions. In particular, I will discuss the strategies to prove self-testing statements using tools from semidefinite programming and graph theory.
 
@@ -27,7 +27,7 @@ Semidefinite Programming (SDP) is a class of convex optimization programs with v
 <h1 style="display:inline-block;">Teiko Heinosaari</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(University of Turku, Finland)</h2>
 
 ## Quantum incompatibility
-### Apr 07, 2022
+### Apr 7, 2022
 
 Quantum incompatibility is a fundamental trait of quantum theory. It can be traced back to Heisenberg's uncertainty principle, but is nowadays understood as a more general feature with diverse manifestations. It is related to many important quantum phenomena, such as steering, non-locality and contextuality. In this talk, I explain how three basic facts of quantum theory---the no-cloning theorem, no-information-without-disturbance theorem, and the existence of complementary observables---naturally lead to a unified general concept of incompatibility of quantum devices. I present some examples of compatible and incompatible collections of devices, and discuss the most essential properties of the (in)compatibility relation.
 
