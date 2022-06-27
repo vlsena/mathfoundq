@@ -9,7 +9,7 @@ draft: false
 
 # 2022
 
-##[Interplays between classical and quantum entanglement-assisted communication scenarios](https://arxiv.org/abs/2205.05171)
+## [Interplays between classical and quantum entanglement-assisted communication scenarios](https://arxiv.org/abs/2205.05171)
 **Authors:** Carlos Vieira, Carlos de Gois, Lucas Pollyceno, Rafael Rabelo.
 **Published in:** Preprint  
 **Originally announced:** May 2022
