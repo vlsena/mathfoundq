@@ -2,7 +2,7 @@
 title: "Roberto Dobal Baldijão"
 date: 2019-10-17T11:22:16+06:00
 images: 
-  - "images/showcase/baldi.png"
+  - "images/showcase/roberto.png"
 
 # meta description
 description : "roberto dobal baldijão landing page"
