@@ -7,6 +7,13 @@ description : "publication list"
 draft: false
 ---
 
+# 2022
+
+## [Interplays between classical and quantum entanglement-assisted communication scenarios](https://arxiv.org/abs/2205.05171)
+**Authors:** Carlos Vieira, Carlos de Gois, Lucas Pollyceno, Rafael Rabelo  
+**Published in:** Preprint  
+**Originally announced:** May 2022
+
 # 2020-2021
 
 ## [Entanglement-based quantum communication complexity beyond Bell nonlocality](https://www.nature.com/articles/s41534-022-00520-8)  
