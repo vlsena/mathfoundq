@@ -7,9 +7,19 @@ description : "previous nonlocal talks seminars"
 draft: false
 ---
 
-<h1 style="display:inline-block;">Kishor Bharti</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(Joint Center for QuICS, USA)</h2>
 
-## A semidefinite programming based approach to near-term quantum advantage and device certification
+<h1 style="display:inline-block;">Mirjam Weilenmann</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(IQOQI, Vienna - Austria)</h2>
+
+## Self-Tests of Physical Theories in Networks and Their Implications for the Foundations of Quantum Theory
+### Jun 9, 2022
+
+Self-testing usually refers to the task of taking a given set of observed correlations that are assumed to arise via a process that is accurately described by quantum theory, and trying to infer the quantum state and measurements from this. In other words, it is concerned with the question of whether we can tell what quantum black-box devices are doing by looking only at their input-output statistics and is known to be possible in several cases. In this talk, I will introduce a more general question: is it possible to self-test a theory, and, in particular, quantum theory? More precisely, I will ask whether within a particular network there are tasks that can only be performed in theories that have the same correlations as quantum mechanics. I will introduce two candidate tasks, both adaptations of the usual CHSH-Bell-test in a larger network and will show how they can be used to rule out theories. The first one can be used to rule out a variety of theories including the theory of box-world, which is based on a state space that includes PR-boxes. The second one recently allowed us to rule out quantum theory over real Hilbert spaces as incompatible with our experimental observations. Our work goes beyond previous approaches that usually compare different theories according to their properties, often by imposing postulates. By finding self-tests we design more objective, experimentally verifiable procedures to rule out beyond-quantum-theories.
+
+<br><br><hr>
+
+<h1 style="display:inline-block;">Kishor Bharti</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(Joint Center for Quantum Information and Computer Science (QuICS), USA)</h2>
+
+## A semidefinite programming based approach to near-term quantum advantage and device certification 
 ### May 5, 2022
 
 Semidefinite Programming (SDP) is a class of convex optimization programs with vast applications in control theory, quantum information, combinatorial optimization, machine learning and operational research. In this talk, I will discuss how SDP can be used to address two major challenges in quantum computing research: near-term quantum advantage and device certification. Towards the first challenge, I will discuss how to design noisy intermediate-scale quantum (NISQ) algorithms, that bypass the local minima problem, one of the central problems faced by variational quantum algorithms. As an example, I will discuss a NISQ eigensolver that does not suffer from any trainability problem, such as the barren plateau or local minima problem. In the second part of the talk, I will discuss how can one use SDPs to give theoretical guarantees regarding the inner functioning of quantum devices under minimal assumptions. In particular, I will discuss the strategies to prove self-testing statements using tools from semidefinite programming and graph theory.
@@ -20,18 +30,21 @@ Semidefinite Programming (SDP) is a class of convex optimization programs with v
 &emsp; Kishor Bharti, Maharshi Ray, Antonios Varvitsiotis, Naqueeb Ahmad Warsi, Adán Cabello, Leong-Chuan Kwek, [Phys. Rev. Lett. 122, 250403](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.250403)<br>
 &emsp; Kishor Bharti, Alba Cervera-Lierta, Thi Ha Kyaw, Tobias Haug, Sumner Alperin-Lea, Abhinav Anand, Matthias Degroote, Hermanni Heimonen, Jakob S. Kottmann, Tim Menke, Wai-Keong Mok, Sukin Sim, Leong-Chuan Kwek, Alán Aspuru-Guzik, [Rev. Mod. Phys. 94, 015004](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.94.015004)
 
-<br>
+<br><br><hr>
+
+
 
 <h1 style="display:inline-block;">Teiko Heinosaari</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(University of Turku, Finland)</h2>
 
 ## Quantum incompatibility
-### Apr 07, 2022
+### Apr 7, 2022
 
-Quantum incompatibility is a fundamental trait of quantum theory. It can be traced back to Heisenberg’s uncertainty principle, but is nowadays understood as a more general feature with diverse manifestations. It is related to many important quantum phenomena, such as steering, non-locality and contextuality. In this talk, I explain how three basic facts of quantum theory—the no-cloning theorem, no-information-without-disturbance theorem, and the existence of complementary observables—naturally lead to a unified general concept of incompatibility of quantum devices. I present some examples of compatible and incompatible collections of devices, and discuss the most essential properties of the (in)compatibility relation.
+Quantum incompatibility is a fundamental trait of quantum theory. It can be traced back to Heisenberg's uncertainty principle, but is nowadays understood as a more general feature with diverse manifestations. It is related to many important quantum phenomena, such as steering, non-locality and contextuality. In this talk, I explain how three basic facts of quantum theory---the no-cloning theorem, no-information-without-disturbance theorem, and the existence of complementary observables---naturally lead to a unified general concept of incompatibility of quantum devices. I present some examples of compatible and incompatible collections of devices, and discuss the most essential properties of the (in)compatibility relation.
+
 
 <br>
 
-<h1 style="display:inline-block;">Armin Tavakoli</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(IQOQI Vienna)</h2>
+<h1 style="display:inline-block;">Armin Tavakoli</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(IQOQI, Vienna - Austria)</h2>
 
 ## Entanglement in quantum communications
 ### Fev 24, 2022
@@ -40,7 +53,7 @@ The combination of entanglement and quantum communication is the most general co
 
 <br>
 
-<h1 style="display:inline-block;">Giannicola Scarpa</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(Universidad Politécnica de Madrid)</h2>
+<h1 style="display:inline-block;">Giannicola Scarpa</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(Universidad Politécnica de Madrid, Spain)</h2>
 
 ## Agreement between observers: a physical principle?
 ### Nov 11, 2021
@@ -49,7 +62,7 @@ Is the world quantum? An active research line in quantum foundations is devoted 
 
 <br>
 
-<h1 style="display:inline-block;">John Selby</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(ICTQT, University of Gdańsk)</h2>
+<h1 style="display:inline-block;">John Selby</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(ICTQT, Gdańsk - Poland)</h2>
 
 ## Contextuality without incompatibility
 ### Nov 4, 2021
@@ -58,7 +71,7 @@ One of the key studies within quantum theory is to understand exactly how the qu
 
 <br>
 
-<h1 style="display:inline-block;">Elie Wolfe</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(Perimeter Institute)</h2>
+<h1 style="display:inline-block;">Elie Wolfe</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(Perimeter Institute, Canada)</h2>
 
 ## Quantifying Nonlocality and Entanglement relative to Local Operations and Shared Randomness
 ### Jul 15, 2021
@@ -69,7 +82,7 @@ Based primarily on the recently updated [Understanding the interplay of entangl
 
 <br>
 
-<h1 style="display:inline-block;">William Wootters</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(Williams College)</h2>
+<h1 style="display:inline-block;">William Wootters</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(Williams College, USA)</h2>
 
 ## Quantum predictions arising from epistemically restricted classical predictions
 ### Jul 8, 2021
@@ -82,7 +95,7 @@ Here we start with a theory like the one Spekkens proposed, but we add a crucial
 
 <br>
 
-<h1 style="display:inline-block;">Otfried Gühne</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(University of Siegen)</h2>
+<h1 style="display:inline-block;">Otfried Gühne</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(University of Siegen, Germany)</h2>
 
 ## Characterizing quantum systems with randomized measurements
 ### May 6, 2021
@@ -96,7 +109,7 @@ If only limited control over a multiparticle quantum system is available, a viab
 
 <br>
 
-<h1 style="display:inline-block;">Ana Belén Sainz</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(ICTQT, Gdańsk)</h2>
+<h1 style="display:inline-block;">Ana Belén Sainz</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(ICTQT, Gdańsk - Poland)</h2>
 
 ## Post-quantum non-classicality: the fun in dreaming
 ### April 15, 2021
@@ -105,7 +118,7 @@ Because "quantum" was not complex enough, in this talk I will introduce you to "
 
 <br>
 
-<h1 style="display:inline-block;">Marcin Pawłowski</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(ICTQT, Gdańsk)</h2>
+<h1 style="display:inline-block;">Marcin Pawłowski</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(ICTQT, Gdańsk - Poland)</h2>
 
 ## Random Access Code Zoo
 ### March 25, 2021
@@ -114,7 +127,7 @@ Random Access Code (RAC) is a protocol in which some information is encoded into
 
 <br>
 
-<h1 style="display:inline-block;">Markus P. Müller</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(IQOQI Vienna)</h2>
+<h1 style="display:inline-block;">Markus P. Müller</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(IQOQI, Vienna - Austria)</h2>
 
 ## Law without law: from observer states to physics via algorithmic information theory
 ### February 25, 2021
