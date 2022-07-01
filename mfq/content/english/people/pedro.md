@@ -6,9 +6,9 @@ images:
 
 # meta description
 description : "pedro lauand landing page"
-summary: Undergraduate student
+summary: M.Sc. student
 categories: student
 draft: false
 ---
 
-I’m an undergraduate student in Mathematics with emphasis in Mathematical Physics, and member of the INCT-IQ entailed with the FIDQ group. My main topics of study are how to remove the degeneracies of Bell inequalities, and Bilocality in tripartite systems.
+I’m a M.Sc. candidate, bachelor in Mathematics with emphasis on mathematical physics. My main topics of study are non-locality and quantum information theory, mainly focused in the framework of Bayesian networks.
