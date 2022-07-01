@@ -43,9 +43,9 @@ Semidefinite Programming (SDP) is a class of convex optimization programs with v
 Quantum incompatibility is a fundamental trait of quantum theory. It can be traced back to Heisenberg's uncertainty principle, but is nowadays understood as a more general feature with diverse manifestations. It is related to many important quantum phenomena, such as steering, non-locality and contextuality. In this talk, I explain how three basic facts of quantum theory---the no-cloning theorem, no-information-without-disturbance theorem, and the existence of complementary observables---naturally lead to a unified general concept of incompatibility of quantum devices. I present some examples of compatible and incompatible collections of devices, and discuss the most essential properties of the (in)compatibility relation.
 
 
-<br>
+<br><br><hr>
 
-<<<<<<< HEAD
+
 <h1 style="display:inline-block;">Mirjam Weilenmann</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(IQOQI, Vienna - Austria)</h2>
 
 ## Self-Tests of Physical Theories in Networks and Their Implications for the Foundations of Quantum Theory
@@ -80,10 +80,9 @@ Semidefinite Programming (SDP) is a class of convex optimization programs with v
 Quantum incompatibility is a fundamental trait of quantum theory. It can be traced back to Heisenberg's uncertainty principle, but is nowadays understood as a more general feature with diverse manifestations. It is related to many important quantum phenomena, such as steering, non-locality and contextuality. In this talk, I explain how three basic facts of quantum theory---the no-cloning theorem, no-information-without-disturbance theorem, and the existence of complementary observables---naturally lead to a unified general concept of incompatibility of quantum devices. I present some examples of compatible and incompatible collections of devices, and discuss the most essential properties of the (in)compatibility relation.
 
 
-<br>
+<br><br><hr>
 
-=======
->>>>>>> 0df709900aa6078c32e4ea48750e0827c6f580c1
+
 <h1 style="display:inline-block;">Armin Tavakoli</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(IQOQI, Vienna - Austria)</h2>
 
 ## Entanglement in quantum communications
