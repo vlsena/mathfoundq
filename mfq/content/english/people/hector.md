@@ -6,9 +6,9 @@ images:
 
 # meta description
 description : "hector menezes landing page"
-summary: Undergraduate student
+summary: M.Sc. student
 categories: student
 draft: false
 ---
 
-Undergraduate student in Systems Analysis and Development at São Paulo State Technological College. Currently, doing an undergraduate research on Quantum Machine Learning and working as a Software Engineer at Captalys. The main area of interest are quantum computing and quantum information.
+B.Tech in Systems Analysis and Development by Sorocaba Technological College. Currently, a Master’s Student in Applied Math at the Institute of Mathematics, Statistics and Scientific Computing - State University of Campinas (IMECC/UNICAMP) and working as a Software Engineer. Main areas of interest are quantum computing and quantum information.
