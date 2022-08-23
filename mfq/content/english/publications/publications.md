@@ -14,6 +14,15 @@ draft: false
 **Published in:** Preprint  
 **Originally announced:** May 2022
 
+---
+
+## [Differential Geometry of Contextuality](https://arxiv.org/abs/2202.08719)
+**Authors:** Sidiney B. Montanhano
+**Published in:** Preprint  
+**Originally announced:** Feb 2022
+
+<br/> 
+
 # 2020-2021
 
 ## [Entanglement-based quantum communication complexity beyond Bell nonlocality](https://www.nature.com/articles/s41534-022-00520-8)  
