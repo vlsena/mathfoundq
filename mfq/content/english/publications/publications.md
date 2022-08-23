@@ -19,7 +19,7 @@ draft: false
 ## [Differential Geometry of Contextuality](https://arxiv.org/abs/2202.08719)
 **Authors:** Sidiney B. Montanhano
 **Published in:** Preprint  
-**Originally announced:** Feb 2022
+**Originally announced:** February 2022
 
 <br/> 
 
