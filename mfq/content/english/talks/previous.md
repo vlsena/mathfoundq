@@ -7,6 +7,15 @@ description : "previous nonlocal talks seminars"
 draft: false
 ---
 
+<h1 style="display:inline-block;">Adán Cabello</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(Universidad de Sevilla, Spain)</h2>
+
+## Quantum nonlocality: How does nature do it?
+### Nov 25, 2022
+
+Nature violates Bell inequalities. However, it is not clear why this violation occurs and what does it mean. There are several possibilities: (i) It could indicate that measurement outcomes are governed by nonlocal hidden variables. (ii) It could indicate that measurement outcomes are governed by local hidden variables and measurements depend on the hidden variables. (iii) It could indicate that neither measurements nor measurement outcomes are governed in any way by hidden variables. Here, I examine these possibilities under the light of some recent developments in the program of deriving from fundamental principles the sets of quantum correlations for Bell and Kochen-Specker contextuality scenarios and show that the option that, at first sight, has less explanatory power is the one that actually explains more.
+
+<br><br><hr>
+
 <h1 style="display:inline-block;">Mirjam Weilenmann</h1> &nbsp;&nbsp;&nbsp; <h2 style="display:inline-block;">(IQOQI, Vienna - Austria)</h2>
 
 ## Self-Tests of Physical Theories in Networks and Their Implications for the Foundations of Quantum Theory
