@@ -9,10 +9,24 @@ draft: false
 
 # 2022
 
+## [Witnessing Non-Classicality in a Simple Causal Structure with Three Observable Variables](https://arxiv.org/abs/2211.13349)
+**Authors:** Pedro Lauand, Davide Poderini, Ranieri Nery, George Moreno, Lucas Pollyceno, Rafael Rabelo, Rafael Chaves
+**Published in:** Preprint  
+**Originally announced:** Nov 2022
+
+---
+
 ## [No-broadcasting theorem for non-signalling boxes and assemblages](https://arxiv.org/abs/2211.14351)
 **Authors:** Carlos Vieira, Adrian Solymos, Cristhiano Duarte, Zoltán Zimborás
 **Published in:** Preprint  
 **Originally announced:** Nov 2022
+
+---
+
+## [Synchronous observation of Bell nonlocality and state-dependent Kochen-Specker contextuality](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.040201)
+**Authors:** Lei Xiao, Gabriel Ruffolo, André Mazzari, Tassius Temistocles, Marcelo Terra Cunha, Rafael Rabelo, Peng Xue  
+**Published in:** Phys. Rev. Lett. 130, 040201 (2023)  
+**Originally announced:** Apr 2022
 
 ---
 
