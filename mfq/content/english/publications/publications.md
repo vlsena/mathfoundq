@@ -11,7 +11,6 @@ draft: false
 
 ## [Witnessing Non-Classicality in a Simple Causal Structure with Three Observable Variables](https://arxiv.org/abs/2211.13349)
 **Authors:** Pedro Lauand, Davide Poderini, Ranieri Nery, George Moreno, Lucas Pollyceno, Rafael Rabelo, Rafael Chaves
-
 **Published in:** Preprint  
 **Originally announced:** Nov 2022
 
@@ -19,7 +18,6 @@ draft: false
 
 ## [No-broadcasting theorem for non-signalling boxes and assemblages](https://arxiv.org/abs/2211.14351)
 **Authors:** Carlos Vieira, Adrian Solymos, Cristhiano Duarte, Zoltán Zimborás
-
 **Published in:** Preprint  
 **Originally announced:** Nov 2022
 
